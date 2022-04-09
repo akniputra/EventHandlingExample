@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EventHandlingExample</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="display_activity">Display Activity</string>
+    <string name="button">buntton</string>
+    <string name="name">name</string>
+</resources>
